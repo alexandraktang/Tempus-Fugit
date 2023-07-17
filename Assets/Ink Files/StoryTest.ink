@@ -74,7 +74,7 @@ She lowers her gaze, seemingly struggling to find anything else to say, and you 
 
 <b>JEAN GUNNHILDR</b>: "I believe I've forgotten to introduce myself. I'm Jean Gunnhildr, Master of Knights with the Order of Favonius." #JEAN_smile
 * [Lisa Minci. Newly settled Mondstadian.] -> Introductions_left
-* [Lisa Minci. Humble bookstore... <i>proprietor</i>.] -> Introductions_right
+* [Lisa Minci. Humble apothecary... <i>proprietor</i>.] -> Introductions_right
     
     == Introductions_left ==
     -> Introductions_done

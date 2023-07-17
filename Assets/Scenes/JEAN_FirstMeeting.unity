@@ -1811,8 +1811,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Thanks for playing my game!\n\nThis is a narrative game inspired by the
     swiping mechanic from the Reigns series. In this playtest, you'll be playing
-    through a scene where the protagonist, a young witch posing as a bookshop owner,
-    meets a young knight from a kingdom wary of magic.\n\nYour choices matter!\n\n<b>INSTRUCTIONS:</b>\nMove
+    through a scene where the protagonist, a young witch posing as an apothecary
+    owner, meets a young knight from a kingdom wary of magic.\n\nYour choices matter!\n\n<b>INSTRUCTIONS:</b>\nMove
     your cursor left and right to reveal choices.\nClick and release the Left Mouse
     Button to confirm your choice.\n\n<b>NOTE:</b> \nSome cards do not have choices
     and no text will be revealed when moving these cards.\nClick in either direction
